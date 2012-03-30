@@ -6,3 +6,5 @@ tmp
 .history
 dist
 .settings
+*.class
+bin*
