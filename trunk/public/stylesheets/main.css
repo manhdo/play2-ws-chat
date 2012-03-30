@@ -1,0 +1,8 @@
+.chatroom {
+	height:400px;
+	overflow: scroll;
+}
+
+.navbar-login {
+	margin-top: 5px;
+}
